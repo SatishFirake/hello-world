@@ -2,7 +2,7 @@ raw: 0.9
 endpoint: GET
 metadata:
   title: Hello world
-  description: Hello world example
+  description: Hello world example1
   tags:
     - helloworld
 code: rql
